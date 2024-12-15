@@ -1,4 +1,4 @@
-# ConvertTextToRotationEnabledText
+# ConvertTextToRotationEnabledTextStroke
 
 Convert Normal Text To Rotation Enabled Text_Stroke!
 
